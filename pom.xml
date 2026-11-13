@@ -12,7 +12,7 @@
     <description>Quest-/Aufgabensystem mit GUI fuer Paper</description>
 
     <properties>
-        <maven.compiler.release>21</maven.compiler.release>
+        <maven.compiler.release>25</maven.compiler.release>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <!-- Falls die Paper-API-Version anders heisst, hier anpassen -->
         <paper.version>26.3.build.8-alpha</paper.version>
